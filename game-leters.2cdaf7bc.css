@@ -1,0 +1,13 @@
+.window-letters {
+  color: brown;
+  background-color: #deb887;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  font-size: 100px;
+  display: flex;
+}
+/*# sourceMappingURL=game-leters.2cdaf7bc.css.map */
